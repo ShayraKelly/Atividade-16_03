@@ -1,7 +1,104 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head></head>
 
-<body></body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 16/03</title>
+    <style>
+        body {
+            background-color: rgb(185, 200, 200);
+        }
+
+        h1 {
+            font-size: 50px;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            text-decoration-line: underline;
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        h2 {
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            font-style: italic;
+        }
+
+        dl {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        dt {
+            font-size: 30px;
+        }
+
+        dd {
+            font-size: 25px;
+
+        }
+
+        p {
+            font-size: 10px;
+            text-align: right;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h1>Minha apresentação</h1>
+    <h2>Shayra Kelly - 1° Período de TSI</h2>
+    <br>
+
+    <dl>
+        <b><dt>Minhas Características</dt></b>
+        <dd>Honesta</dd>
+        <dd>Desatenta</dd>
+        <dd>Aplicada</dd>
+        <dd>Paciente</dd>
+        <dd>Prudente</dd>
+        <dd>Esquecida</dd>
+        <br>
+
+        <b><dt>Meus hobbys</dt></b>
+        <dd>Ler</dd>
+        <dd>Dançar</dd>
+        <dd>Escrever</dd>
+        <dd>Cantar</dd>
+        <dd>Pintar</dd>
+        <br>
+
+        <b><dt>O que gosto de ler</dt></b>
+        <dd>Livros de fantasia</dd>
+        <dd>Livros de Romance</dd>
+        <dd>Livros de Mistério</dd>
+        <dd>HQs</dd>
+        <br>
+
+        <b><dt>o que gosto de comer</dt></b>
+        <dd>Pizza</dd>
+        <dd>Sanduíche</dd>
+        <dd>Chocolate</dd>
+        <dd>Sorvete</dd>
+        <dd>Macarrão</dd>
+        <dd>Bolo</dd>
+        <br>
+
+        <b><dt>Estilos Musicais preferidos</dt></b>
+        <dd>Pop</dd>
+        <dd>Rock</dd>
+        <dd>R&B</dd>
+        <br>
+
+    </dl>
+
+    <p>Fim...?</p>
+
+</body>
 
 </html>
